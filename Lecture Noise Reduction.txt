@@ -1,0 +1,4 @@
+NoiseReduction:Use_Preset="<Factory Defaults>"
+NoiseGate:attack="150" freq="0" funct="Gate" hpf="No" level-red="-100" stlink="Link Stereo Tracks" thresh="-20"
+Normalize:ApplyGain="1" PeakLevel="-1" RemoveDcOffset="1" StereoIndependent="0"
+ExportWav:
